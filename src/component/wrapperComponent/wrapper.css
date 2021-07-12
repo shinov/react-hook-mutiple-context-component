@@ -1,0 +1,28 @@
+
+.wrapper-component {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.wrapper-component__header-main {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.wrapper-component .state-select {
+    width: 100%;
+    position: relative;
+}
+.wrapper-component__header-main--state-select {
+    position: relative;
+    margin-top: 10px;
+}
+	
+@media (min-width:992px) {
+    .wrapper-component__header-main--state-select {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+    }
+}

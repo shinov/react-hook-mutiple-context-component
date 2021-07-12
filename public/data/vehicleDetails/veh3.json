@@ -1,0 +1,21 @@
+{
+    "colors": [{
+        "filter": "invert(54%) sepia(20%) saturate(7444%) hue-rotate(160deg) brightness(93%) contrast(101%)",
+        "additionalMsrp": 0,
+        "name": "Blue paint",
+        "id": "blue"
+    }, {
+        "filter": "invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%)",
+        "additionalMsrp": 200,
+        "name": "Green paint",
+        "id": "green"
+    }, {
+        "filter": "invert(36%) sepia(76%) saturate(5182%) hue-rotate(344deg) brightness(86%) contrast(112%)",
+        "additionalMsrp": 150,
+        "name": "Red paint",
+        "id": "red"
+    }],
+    "msrp": 1700,
+    "name": "Vehicle 3",
+    "image": "img/vehicle3.svg"
+}

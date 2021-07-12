@@ -1,0 +1,26 @@
+{
+    "colors": [{
+        "filter": "invert(19%) sepia(11%) saturate(5206%) hue-rotate(338deg) brightness(94%) contrast(85%)",
+        "additionalMsrp": 100,
+        "name": "Brown paint",
+        "id": "brown"
+    }, {
+        "filter": "invert(99%) sepia(1%) saturate(2699%) hue-rotate(308deg) brightness(111%) contrast(60%)",
+        "additionalMsrp": 100,
+        "name": "Grey paint",
+        "id": "grey"
+    }, {
+        "filter": "invert(54%) sepia(20%) saturate(7444%) hue-rotate(160deg) brightness(93%) contrast(101%)",
+        "additionalMsrp": 0,
+        "name": "Blue paint",
+        "id": "blue"
+    }, {
+        "filter": "invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%)",
+        "additionalMsrp": 200,
+        "name": "Green paint",
+        "id": "green"
+    }],
+    "msrp": 1500,
+    "name": "Vehicle 2",
+    "image": "img/vehicle2.svg"
+}

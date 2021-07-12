@@ -1,0 +1,34 @@
+{
+    "vehicles": [{
+            "name": "vehicle 1",
+            "msrp": 1000,
+            "stateAavailable": [],
+            "id": "veh1"
+
+        },
+        {
+            "name": "vehicle 2",
+            "msrp": 1500,
+            "stateAavailable": [],
+            "id": "veh2"
+        },
+        {
+            "name": "vehicle 3",
+            "msrp": 1700,
+            "stateAavailable": ["MI"],
+            "id": "veh3"
+        },
+        {
+            "name": "vehicle 4",
+            "msrp": 2700,
+            "stateAavailable": ["MI","AL","CO","NY","OH"],
+            "id": "veh4"
+        },
+        {
+            "name": "vehicle 5",
+            "msrp": 3700,
+            "stateAavailable": ["HI","CT","CO","MI"],
+            "id": "veh5"
+        }
+    ]
+}
